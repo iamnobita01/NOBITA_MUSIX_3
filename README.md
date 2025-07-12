@@ -24,7 +24,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/HKMUSIC/GOJO-NOBITA-BOT"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/iamnobita01/NOBITA_MUSIX_3"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
 
 <br />
 
