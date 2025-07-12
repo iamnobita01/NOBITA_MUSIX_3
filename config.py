@@ -57,7 +57,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 SOURCE = getenv("SOURCE", "https://github.com/HKMUSIC/GOJO-NOBITA-BOT")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/HKMUSIC/GOJO-NOBITA-BOT",
+    "https://github.com/iamnobita01/NOBITA_MUSIX_3",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
